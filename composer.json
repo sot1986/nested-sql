@@ -1,0 +1,19 @@
+{
+    "name": "sot/nested-sql",
+    "description": "Laravel Package handling the graph indexes of a nestable model entity",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sot\\NestedSql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matteo Presot",
+            "email": "matteo.presot@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
